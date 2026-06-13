@@ -1,12 +1,13 @@
-```text
- ______     ______     __     __   __     __    __     ______  
-/\  == \   /\  __ \   /\ \   /\ "-.\ \   /\ "-./  \   /\__  _\ 
-\ \  __<   \ \  __ \  \ \ \  \ \ \-.  \  \ \ \-./\ \  \/_/\ \/ 
- \ \_\ \_\  \ \_\ \_\  \ \_\  \ \_\\"\_\  \ \_\ \ \_\    \ \_\ 
-  \/_/ /_/   \/_/\/_/   \/_/   \/_/ \/_/   \/_/  \/_/     \/_/ 
-                                                               
-```
+# Olá sou o RainMT! 😄
+
+## 🚀 Sobre Mim
+
+Eu gosto muito de tecnologia em geral, mas meu foco principal atual é IA (Otimização de modelos pra rodar em hardware limitado). Além disso, tenho interesse em projetos open-source que me agradam, e estou buscando evoluir tecnicamente, seja em IA ou em outras áreas.
+
+- 💻 Atualmente trabalhando no **Drip-1C:7b**, uma IA de código local pra GPUs com 4GB de VRAM
+- 🧠 Atualmente Aprendendo fine-tuning de LLMs.
 ---
+
 ```python
 class RainMT:
     def __init__(self):
@@ -22,7 +23,7 @@ class RainMT:
             "gpu": "GTX 1050 Ti 4GB",
         }
 ```
----
+
 ### ⚡ Habilidades
 `IA/ML` `Aprendendo Fine-tuning de LLMs` `Python` `Java`
 ### 🛠 Stack
