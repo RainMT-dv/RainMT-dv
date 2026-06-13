@@ -7,7 +7,6 @@
                                                                
 ```
 ---
-
 ```python
 class RainMT:
     def __init__(self):
@@ -23,22 +22,16 @@ class RainMT:
             "gpu": "GTX 1050 Ti 4GB",
         }
 ```
-
 ---
-
 ### ⚡ Habilidades
-
 `IA/ML` `Aprendendo Fine-tuning de LLMs` `Python` `Java`
-
-### 🛠 stack
-
+### 🛠 Stack
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RainMT-dv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RainMT-dv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainMT-dv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Top Languages" height="165"/>
 </p>
