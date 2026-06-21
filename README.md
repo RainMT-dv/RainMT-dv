@@ -4,7 +4,7 @@
 
 Eu gosto muito de tecnologia em geral, mas meu foco principal atual é IA (Otimização de modelos pra rodar em hardware limitado). Além disso, tenho interesse em projetos open-source que me agradam, e estou buscando evoluir tecnicamente, seja em IA ou em outras áreas.
 
-- 💻 Atualmente trabalhando no **Drip-1C:7b**, uma IA de código local pra GPUs com 4GB de VRAM
+- 💻 Atualmente trabalhando no **Drip-1C:7b**, uma IA de código local pra GPUs com 4GB de VRAM (E em outros projetos para não ficar somente nisso)
 - 🧠 Atualmente Aprendendo fine-tuning de LLMs.
 ---
 
@@ -13,7 +13,7 @@ class RainMT:
     def __init__(self):
         self.location = "Brazil 🇧🇷"
         self.focus = ["AI/ML", "Python"]
-        self.current_project = "Drip-1C:7b"  # IA para codar localmente com 4 GB de VRAM
+        self.current_project = "Drip-1C:7b"  # IA para codar localmente com 4 GB de VRAM!
  
     @property
     def hardware(self):
