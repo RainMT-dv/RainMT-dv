@@ -1,4 +1,4 @@
-# Hey, eu sou o RainMT 👋
+# Oi, eu sou o RainMT 👋
 
 ## 🚀 Sobre Mim
 
