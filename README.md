@@ -13,7 +13,7 @@ class RainMT:
     def __init__(self):
         self.location = "Brazil 🇧🇷"
         self.focus = ["AI/ML", "Python"]
-        self.current_project = "Drip-1C:7b"  # IA para codar localmente com 4 GB de VRAM!
+        self.current_project = "null"
  
     @property
     def hardware(self):
