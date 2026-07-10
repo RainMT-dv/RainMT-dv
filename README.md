@@ -4,7 +4,6 @@
 
 Tecnologia em geral, meu tenho foco em IA local e otimização de modelos pra rodar em hardware limitado. Também mexo com segurança ofensiva/defensiva por hobby e tento fazer ferramentas em Python quando aparece um problema que me incomoda.
 
-- 🇧🇷 Brasil
 - 🧠 Atualmente explorando: fine-tuning, LoRA, arquiteturas de modelos pequenos
 - 🔒 Hobby paralelo: redes, honeypots (educacionais), ferramentas de análise
 
