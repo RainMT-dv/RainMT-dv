@@ -27,6 +27,18 @@ class RainMT:
 ```
 ---
 
+### Habilidades
+`Python` `IA Local` `LoRA / Fine-tuning` `Java` `Redes` `Segurança Ofensiva (hobby)` ``
+
+### Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+
 ## What I Want
 
 ```python
@@ -36,15 +48,6 @@ bash: kill-myself: use sudo for this operation.
 $ sudo kill-myself
 sudo: kill-myself: no.
 ```
-
-### Habilidades
-`Python` `IA Local` `LoRA / Fine-tuning` `Java` `Redes` `Segurança Ofensiva (hobby)` ``
-
-### Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
