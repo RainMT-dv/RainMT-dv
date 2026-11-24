@@ -22,12 +22,23 @@ class RainMT:
         return {
             "cpu": "AMD Ryzen 5 4500 (6 cores)",
             "ram": "32GB DDR4",
-            "gpu": "GTX 1050 Ti 4GB",  # upgrade pending :/
+            "gpu": "GTX 1050 Ti 4GB",  # upgrade pending :/ (But linux helps)
         }
+```
+---
+
+## What I Want
+
+```python
+$ kill-myself
+bash: kill-myself: use sudo for this operation.
+
+$ sudo kill-myself
+sudo: kill-myself: no.
 ```
 
 ### Habilidades
-`Python` `IA Local` `LoRA / Fine-tuning` `Java` `Redes` `Segurança Ofensiva (hobby)`
+`Python` `IA Local` `LoRA / Fine-tuning` `Java` `Redes` `Segurança Ofensiva (hobby)` ``
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
