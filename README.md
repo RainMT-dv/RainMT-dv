@@ -16,6 +16,10 @@ class RainMT:
         self.location = "Brazil"
         self.focus = ["AI/ML", "Python", "Infosec"]
         self.current_project = "various small tools"
+        self.want = "kill my self"
+
+    def sudo(self, *args):
+        return "no."
 
     @property
     def hardware(self):
