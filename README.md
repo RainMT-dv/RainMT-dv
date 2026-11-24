@@ -42,19 +42,6 @@ class RainMT:
 
 ---
 
-
-## What I Want
-
-```python
-$ kill-myself
-bash: kill-myself: use sudo for this operation.
-
-$ sudo kill-myself
-sudo: kill-myself: no.
-```
-
----
-
 ## GitHub Stats
 
 <p align="center">
